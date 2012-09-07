@@ -1,1 +1,11 @@
+Why fork?
+
+On certain implementations, you get this problem:
+
+http://stackoverflow.com/questions/6128675/image-loading-multiple-times-is-this-a-firefox-ou-a-nivoslider-bug
+
+The plugin works but produces extra requests to the server, something you don't want to happen.
+
+Original:
+
 Nivo Slider is "The Most Awesome jQuery Image Slider". See http://nivo.dev7studios.com for more info.
